@@ -1,0 +1,77 @@
+body {
+    background-color: antiquewhite;
+}
+
+.bola-esq{
+    background-color: #36250f;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.bola-dir{
+    background-color: #36250f;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 50px;
+    z-index: 1;
+}
+
+.vergalhao{
+    background-color: #36250f;
+    height: 150px;
+    width: 800px;
+    border-radius: 70%;
+    position: relative;
+    bottom: 298px;
+    left: 35px;
+    z-index: 1;
+}
+
+.cabecinha{
+    background-color: rosybrown;
+    height: 90px;
+    width: 140px;
+    border-radius: 60%;
+    position: relative;
+    bottom: 420px;
+    left: 700px;
+    z-index: 3;
+}
+
+.bordinha{
+    background-color: #36250f;
+    height: 120px;
+    width: 55px;
+    border-radius: 32%;
+    position: relative;
+    bottom: 520px;
+    left: 720px;
+    z-index: 2;
+}
+
+.bordinha2{
+    background-color: #36250f;
+    height: 120px;
+    width: 65px;
+    border-radius: 48%;
+    position: relative;
+    bottom: 640px;
+    left: 700px;
+    z-index: 4;
+}
+
+.boca-do-pau{
+    background-color: rgb(221, 163, 163);
+    height: 5px;
+    width: 15px;
+    border-radius: 30%;
+    position: relative;
+    bottom: 708px;
+    left: 825px;
+    z-index: 4;
+}
+
